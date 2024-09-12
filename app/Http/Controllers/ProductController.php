@@ -12,7 +12,7 @@ class ProductController extends Controller
      */
     public function index()
     {
-        //
+        return 'masuk ke halaman index' ;
     }
 
     /**
@@ -20,7 +20,8 @@ class ProductController extends Controller
      */
     public function create()
     {
-        //
+        return 'masuk ke halaman create' ;
+
     }
 
     /**
